@@ -1,0 +1,7 @@
+month,kind,actual_revenue_pkr,naive_forecast_pkr,seasonal_naive_forecast_pkr,naive_abs_pct_error,seasonal_naive_abs_pct_error
+2025-10,backtest,10754500,9221900,9238600,14.25,14.1
+2025-11,backtest,12846500,9221900,11241900,28.21,12.49
+2025-12,backtest,14608900,9221900,12736300,36.87,12.82
+2026-01,forecast,,14608900,8621000,,
+2026-02,forecast,,14608900,6800900,,
+2026-03,forecast,,14608900,9182000,,

@@ -1,0 +1,17 @@
+list,rank,period_type,period,revenue_pkr
+best_months,1,month,2025-12,14608900
+best_months,2,month,2025-11,12846500
+best_months,3,month,2024-12,12736300
+best_months,4,month,2023-12,11516400
+best_months,5,month,2024-11,11241900
+worst_months,1,month,2023-02,4887000
+worst_months,2,month,2024-02,6171900
+worst_months,3,month,2023-01,6481600
+worst_months,4,month,2023-03,6666600
+worst_months,5,month,2023-07,6699900
+best_quarters,1,quarter,2025-Q4,38209900
+best_quarters,2,quarter,2024-Q4,33216800
+best_quarters,3,quarter,2023-Q4,28949800
+worst_quarters,1,quarter,2023-Q1,18035200
+worst_quarters,2,quarter,2023-Q3,20899500
+worst_quarters,3,quarter,2023-Q2,21258100
