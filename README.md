@@ -1,7 +1,6 @@
 # Mini #21 — Python pandas Time Series & Resampling Pack
 
-**Status:** built and verified locally — publish pending
-(https://github.com/mhkh-stock/mini21-python-pandas-time-series).
+**Status:** live — https://github.com/mhkh-stock/mini21-python-pandas-time-series
 
 **SAMPLE / DEMO data only.** Fictional store, fictional sales,
 fictional numbers. Never claimed as real client work.
